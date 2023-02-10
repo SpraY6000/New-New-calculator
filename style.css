@@ -1,0 +1,70 @@
+body {
+    background-image: linear-gradient(90deg, red, orange);
+}
+
+.everything {
+    font-family: Arial;
+    transform: scale(170%);
+    text-align: center;
+    margin-top: 410px;
+}
+
+.headlineDiv {
+    margin-bottom: 8px;
+    font-size: 30px;
+}
+
+.firstNumDiv {
+    margin-bottom: 8px;
+}
+
+.operatorDiv {
+    margin-bottom: 8px;
+}
+
+.secondNumDiv {
+    margin-bottom: 8px;
+}
+
+.submitBtnDiv {
+    margin-bottom: 8px;
+}
+
+.clearBtnDiv {
+    margin-bottom: 8px;
+}
+
+.summaryDiv {
+    font-size: 23px;
+    text-align: center;
+    margin-top: 70px;
+}
+
+.submitBtnDiv {
+    display: inline-block;
+    font-size: 20px;
+    margin-right: 15px;
+}
+
+.clearBtnDiv {
+    display: inline-block;
+}
+
+.inputs {
+    border-radius: 6px;
+}
+
+.Buttons {
+    border-radius: 3px;
+    border-width: 1px;
+    transition: background-color 0.1s;
+    transform: scale(140%);
+}
+
+.Buttons:hover {
+    background-color: rgb(177, 177, 177);
+}
+
+.Buttons:active {
+    background-color: rgb(153, 153, 153);
+}
